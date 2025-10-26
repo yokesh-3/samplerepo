@@ -22,7 +22,7 @@ void main()
     //if(strcmp(str1,str2)==0)  //string compare function
     if(flag == 0)
     {
-        printf("same");
+        printf("same_string");
     }
     else
     {

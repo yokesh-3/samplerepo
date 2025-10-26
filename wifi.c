@@ -9,7 +9,7 @@ void main()
     printf("Enter string1:");
     gets(str1);
     printf("Enter string2:");
-    gets(str2);
+    NULL;
 }
 
 
