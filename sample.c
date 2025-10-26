@@ -26,7 +26,7 @@ void main()
     }
     else
     {
-        printf("different");
+        printf("different_string");
     }
 }
 
